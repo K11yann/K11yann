@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+- 🧑‍🎓 I'm a first-year student of **Master of Computer Science** at the [University of California, Irvine](https://uci.edu/)
+- 👩‍💻 I worked at [Meituan](https://www.meituan.com/en-US/about-us) as a full-time **Back-end Software Engineer** from July 2021 to September 2023.
+- 📮 How to reach me: [firstname]k@uci.edu
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K11yann)](https://github.com/K11yann/github-readme-stats)
